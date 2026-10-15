@@ -9,6 +9,7 @@ A FastAPI-based attendance tracking system with MongoDB backend, supporting punc
 - **Manual Corrections**: Regularize attendance records with full audit trail
 - **Analytics**: Monthly summaries, department summaries, late leaderboards, and trend analysis
 - **Performance**: Optimized MongoDB indexes for fast queries on large datasets
+- **Concurrency Handling**: Atomic operations for concurrent punch-in requests
 
 ## Business Rules Implemented
 
